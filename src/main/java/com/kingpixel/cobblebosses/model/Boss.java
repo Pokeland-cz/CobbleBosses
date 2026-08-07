@@ -130,6 +130,8 @@ public class Boss {
         finalProps += " speed_ev=252 hp_ev=252";
       if (stats.isImmuneToStatus())
         finalProps += " ability=purifyingsalt";
+      if (stats.isFocusSash())
+        finalProps += " helditem=cobblemon:focus_sash";
     }
 
     if (pokemons.isEmpty()) {
