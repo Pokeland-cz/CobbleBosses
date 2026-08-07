@@ -26,7 +26,7 @@ public class CobbleBosses implements ModInitializer {
   public static Lang language = new Lang();
   public static BossesConfig bossesConfig = new BossesConfig();
   public static int oldLevelCap = 100;
-  public static int maxLevelCap = 0;
+  public static int maxLevelCap = 1000;
 
 
   @Override public void onInitialize() {
