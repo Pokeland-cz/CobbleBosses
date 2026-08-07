@@ -43,6 +43,7 @@ public class Boss {
   private float minSize;
   private List<String> pokemons;
   private String properties;
+  private BossStatsConfig stats;
   private AdvancedItemChance rewards;
   private Damageable damageable;
 
@@ -60,6 +61,7 @@ public class Boss {
     minSize = 1.5f;
     pokemons = List.of("pikachu");
     properties = "shiny=true";
+    stats = new BossStatsConfig();
     rewards = new AdvancedItemChance();
     damageable = new Damageable();
   }
@@ -81,6 +83,7 @@ public class Boss {
     if (glowingColor == null) glowingColor = Formatting.LIGHT_PURPLE;
     if (nickName == null) nickName = "§e%pokemon% §9Boss";
     if (properties == null) properties = "shiny=true";
+    if (stats == null) stats = new BossStatsConfig();
     if (rewards == null) rewards = new AdvancedItemChance();
     if (damageable == null) damageable = new Damageable();
   }
@@ -112,11 +115,17 @@ public class Boss {
   }
 
   public void spawn(ServerWorld world, Vec3d pos, Pokemon pokemon) {
+    String finalProps = getProperties();
+    if (stats != null) {
+      if (stats.isPerfectIvs()) finalProps += " ivs=31/31/31/31/31/31";
+      if (stats.isPerfectEvs()) finalProps += " evs=85/85/85/85/85/85";
+    }
+
     if (pokemons.isEmpty()) {
-      PokemonProperties.Companion.parse("uncatchable=true " + getProperties()).apply(pokemon);
+      PokemonProperties.Companion.parse("uncatchable=true " + finalProps).apply(pokemon);
     } else {
       String pokemonId = pokemons.get(Utils.getRandom().nextInt(pokemons.size()));
-      pokemon = PokemonProperties.Companion.parse(pokemonId + " uncatchable=true " + getProperties()).create();
+      pokemon = PokemonProperties.Companion.parse(pokemonId + " uncatchable=true " + finalProps).create();
     }
 
     if (minSize == maxSize) {
