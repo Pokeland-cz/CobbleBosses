@@ -118,6 +118,29 @@ public class CommandTree {
                       )
                   )
               )
+          ).then(
+              CommandManager.literal("history")
+                  .executes(context -> {
+                      ServerPlayerEntity player = context.getSource().getPlayer();
+                      if (player == null) return 0;
+                      java.util.List<com.kingpixel.cobblebosses.model.BossSpawnLog> logs = CobbleBosses.historyManager.getLogs();
+                      if (logs.isEmpty()) {
+                          PlayerUtils.sendMessage(player, "§cNo bosses have spawned yet.", CobbleBosses.config.getPrefix(), TypeMessage.CHAT);
+                          return 1;
+                      }
+                      
+                      PlayerUtils.sendMessage(player, "§6--- Last 20 Spawned Bosses ---", CobbleBosses.config.getPrefix(), TypeMessage.CHAT);
+                      int startIndex = Math.max(0, logs.size() - 20);
+                      for (int i = logs.size() - 1; i >= startIndex; i--) {
+                          com.kingpixel.cobblebosses.model.BossSpawnLog log = logs.get(i);
+                          long ago = (System.currentTimeMillis() - log.getTimestamp()) / 60000; // minutes
+                          String timeStr = ago == 0 ? "just now" : ago + " min ago";
+                          String msg = String.format("§e%s §7(Lvl %d) - %s §c[%d, %d, %d] §8(%s)",
+                                  log.getPokemonName(), log.getLevel(), log.getWorld(), log.getX(), log.getY(), log.getZ(), timeStr);
+                          PlayerUtils.sendMessage(player, msg, "", TypeMessage.CHAT);
+                      }
+                      return 1;
+                  })
           )
       );
     }

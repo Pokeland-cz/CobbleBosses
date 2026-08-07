@@ -33,6 +33,7 @@ public class CobbleBosses implements ModInitializer {
   public static Config config = new Config();
   public static Lang language = new Lang();
   public static BossesConfig bossesConfig = new BossesConfig();
+  public static com.kingpixel.cobblebosses.manager.HistoryManager historyManager = new com.kingpixel.cobblebosses.manager.HistoryManager();
   public static int oldLevelCap = 100;
   public static int maxLevelCap = 1000;
   public static Map<String, SmogonSet> competitiveSets = new HashMap<>();
@@ -73,6 +74,7 @@ public class CobbleBosses implements ModInitializer {
     config.init();
     language.init();
     bossesConfig.init();
+    historyManager.init();
   }
 
 

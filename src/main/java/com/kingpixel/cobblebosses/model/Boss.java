@@ -187,6 +187,18 @@ public class Boss {
       } else {
         finalPokemon.setLevel(Utils.getRandom().nextInt(minLevel, maxLevel));
       }
+      
+      CobbleBosses.historyManager.addLog(new com.kingpixel.cobblebosses.model.BossSpawnLog(
+          id,
+          finalPokemon.getSpecies().getName(),
+          finalPokemon.getLevel(),
+          world.getRegistryKey().getValue().toString(),
+          (int) pos.x,
+          (int) pos.y,
+          (int) pos.z,
+          System.currentTimeMillis()
+      ));
+      
       Cobblemon.INSTANCE.getConfig().setMaxPokemonLevel(CobbleBosses.oldLevelCap);
 
       finalPokemon.sendOut(world, pos, null, bossEntity -> {
