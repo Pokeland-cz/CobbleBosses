@@ -11,6 +11,8 @@ public class BossStatsConfig {
     private boolean perfectEvs = false;
     private boolean immuneToStatus = true;
     private boolean focusSash = false;
+    private boolean useSmogonSet = false;
+    private int maxPartySize = 3;
 
     public BossStatsConfig() {
     }

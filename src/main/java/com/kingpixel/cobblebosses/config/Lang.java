@@ -15,17 +15,19 @@ public class Lang {
   private String reload;
   private String youCanCatch;
   private String youCanFight;
-  private String moveBanned;
+    private String moveBanned;
+    private String maxPartySizeMessage;
 
-  /**
-   * Constructor to generate a file if one doesn't exist.
-   */
-  public Lang() {
-    this.reload = "%prefix% &7Reloaded &7.";
-    this.youCanCatch = "%prefix% &aNow you can catch the boss.";
-    this.youCanFight = "%prefix% &aNow you can fight the boss.";
-    this.moveBanned = "%prefix% &aThe pokemon in the slot %slot% has a banned move and cannot be used in battle.";
-  }
+    /**
+     * Constructor to generate a file if one doesn't exist.
+     */
+    public Lang() {
+        this.reload = "%prefix% &7Reloaded &7.";
+        this.youCanCatch = "%prefix% &aNow you can catch the boss.";
+        this.youCanFight = "%prefix% &aNow you can fight the boss.";
+        this.moveBanned = "%prefix% &aThe pokemon in the slot %slot% has a banned move and cannot be used in battle.";
+        this.maxPartySizeMessage = "%prefix% &cYou can only use up to %size% Pokémon against this boss! Store the rest in your PC.";
+    }
 
   /**
    * Method to initialize the config.

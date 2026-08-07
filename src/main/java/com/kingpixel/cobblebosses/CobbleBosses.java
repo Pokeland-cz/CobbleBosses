@@ -13,6 +13,14 @@ import dev.architectury.event.events.common.CommandRegistrationEvent;
 import dev.architectury.event.events.common.LifecycleEvent;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.MinecraftServer;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.kingpixel.cobblebosses.model.SmogonSet;
+import java.io.InputStreamReader;
+import java.lang.reflect.Type;
+import java.nio.charset.StandardCharsets;
+import java.util.HashMap;
+import java.util.Map;
 
 public class CobbleBosses implements ModInitializer {
   public static final String MOD_ID = "cobblebosses";
@@ -27,6 +35,7 @@ public class CobbleBosses implements ModInitializer {
   public static BossesConfig bossesConfig = new BossesConfig();
   public static int oldLevelCap = 100;
   public static int maxLevelCap = 1000;
+  public static Map<String, SmogonSet> competitiveSets = new HashMap<>();
 
 
   @Override public void onInitialize() {
@@ -36,6 +45,23 @@ public class CobbleBosses implements ModInitializer {
   public static void load() {
     files();
     tasks();
+    loadCompetitiveSets();
+  }
+
+  private static void loadCompetitiveSets() {
+    try {
+      java.io.InputStream is = CobbleBosses.class.getResourceAsStream("/competitive_sets.json");
+      if (is != null) {
+        Gson gson = new Gson();
+        Type type = new TypeToken<Map<String, SmogonSet>>() {}.getType();
+        competitiveSets = gson.fromJson(new InputStreamReader(is, StandardCharsets.UTF_8), type);
+        System.out.println("[CobbleBosses] Loaded " + competitiveSets.size() + " competitive sets.");
+      } else {
+        System.out.println("[CobbleBosses] competitive_sets.json not found in resources.");
+      }
+    } catch (Exception e) {
+      e.printStackTrace();
+    }
   }
 
   private static void tasks() {

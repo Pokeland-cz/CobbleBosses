@@ -122,24 +122,53 @@ public class Boss {
   }
 
   public void spawn(ServerWorld world, Vec3d pos, Pokemon pokemon) {
+    if (!pokemons.isEmpty()) {
+      String pokemonId = pokemons.get(Utils.getRandom().nextInt(pokemons.size()));
+      pokemon = PokemonProperties.Companion.parse(pokemonId).create();
+    }
+
+    String speciesName = pokemon.getSpecies().getName().toLowerCase().replace(" ", "").replace("-", "").replace(".", "").replace("'", "");
     String finalProps = getProperties();
+    
     if (stats != null) {
+      boolean usedSmogon = false;
+      if (stats.isUseSmogonSet() && CobbleBosses.competitiveSets.containsKey(speciesName)) {
+         com.kingpixel.cobblebosses.model.SmogonSet smogonSet = CobbleBosses.competitiveSets.get(speciesName);
+         if (smogonSet.getAbility() != null && !smogonSet.getAbility().isEmpty()) {
+             finalProps += " ability=" + smogonSet.getAbility();
+         }
+         if (smogonSet.getItem() != null && !smogonSet.getItem().isEmpty()) {
+             finalProps += " helditem=" + smogonSet.getItem();
+         }
+         if (smogonSet.getNature() != null && !smogonSet.getNature().isEmpty()) {
+             finalProps += " nature=" + smogonSet.getNature();
+         }
+         if (smogonSet.getEvs() != null) {
+             for (java.util.Map.Entry<String, Integer> entry : smogonSet.getEvs().entrySet()) {
+                 finalProps += " " + entry.getKey() + "_ev=" + entry.getValue();
+             }
+         }
+         if (smogonSet.getMoves() != null && !smogonSet.getMoves().isEmpty()) {
+             finalProps += " moves=" + String.join(",", smogonSet.getMoves());
+         }
+         usedSmogon = true;
+      }
+      
+      if (!usedSmogon) {
+        if (stats.isPerfectEvs())
+          finalProps += " speed_ev=252 hp_ev=252";
+        if (stats.isImmuneToStatus())
+          finalProps += " ability=purifyingsalt";
+      }
+
+      // Tyto 2 parametry můžou vesele přepsat Smogon item/IVs, pokud to admin záměrně povolí:
       if (stats.isPerfectIvs())
         finalProps += " min_perfect_ivs=6";
-      if (stats.isPerfectEvs())
-        finalProps += " speed_ev=252 hp_ev=252";
-      if (stats.isImmuneToStatus())
-        finalProps += " ability=purifyingsalt";
       if (stats.isFocusSash())
         finalProps += " helditem=cobblemon:focus_sash";
     }
 
-    if (pokemons.isEmpty()) {
-      PokemonProperties.Companion.parse("uncatchable=true " + finalProps).apply(pokemon);
-    } else {
-      String pokemonId = pokemons.get(Utils.getRandom().nextInt(pokemons.size()));
-      pokemon = PokemonProperties.Companion.parse(pokemonId + " uncatchable=true " + finalProps).create();
-    }
+    PokemonProperties.Companion.parse("uncatchable=true " + finalProps).apply(pokemon);
 
     if (minSize == maxSize) {
       pokemon.setScaleModifier(maxSize);

@@ -50,6 +50,22 @@ public class StartBattleEvent {
             }
           }
         }
+        int partySize = 0;
+        for (Pokemon p : party) {
+            if (p != null) partySize++;
+        }
+        int maxPartySize = boss.getStats() != null ? boss.getStats().getMaxPartySize() : 3;
+        if (maxPartySize > 0 && partySize > maxPartySize) {
+            PlayerUtils.sendMessage(
+                player,
+                CobbleBosses.language.getMaxPartySizeMessage().replace("%size%", String.valueOf(maxPartySize)),
+                CobbleBosses.config.getPrefix(),
+                TypeMessage.CHAT
+            );
+            evt.cancel();
+            return;
+        }
+
         var damageable = boss.getDamageable();
         if (damageable.isEnabled() && damageable.isDownLife(pokemonEntity)) {
           evt.cancel();
