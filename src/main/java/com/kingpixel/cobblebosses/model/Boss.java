@@ -79,13 +79,20 @@ public class Boss {
       maxSize = temp;
     }
 
-    if (particleColor == null) particleColor = "#CBC3E3";
-    if (glowingColor == null) glowingColor = Formatting.LIGHT_PURPLE;
-    if (nickName == null) nickName = "§e%pokemon% §9Boss";
-    if (properties == null) properties = "shiny=true";
-    if (stats == null) stats = new BossStatsConfig();
-    if (rewards == null) rewards = new AdvancedItemChance();
-    if (damageable == null) damageable = new Damageable();
+    if (particleColor == null)
+      particleColor = "#CBC3E3";
+    if (glowingColor == null)
+      glowingColor = Formatting.LIGHT_PURPLE;
+    if (nickName == null)
+      nickName = "§e%pokemon% §9Boss";
+    if (properties == null)
+      properties = "shiny=true";
+    if (stats == null)
+      stats = new BossStatsConfig();
+    if (rewards == null)
+      rewards = new AdvancedItemChance();
+    if (damageable == null)
+      damageable = new Damageable();
   }
 
   public void convert(PokemonEntity p) {
@@ -117,8 +124,12 @@ public class Boss {
   public void spawn(ServerWorld world, Vec3d pos, Pokemon pokemon) {
     String finalProps = getProperties();
     if (stats != null) {
-      if (stats.isPerfectIvs()) finalProps += " ivs=31/31/31/31/31/31";
-      if (stats.isPerfectEvs()) finalProps += " evs=85/85/85/85/85/85";
+      if (stats.isPerfectIvs())
+        finalProps += " min_perfect_ivs=6";
+      if (stats.isPerfectEvs())
+        finalProps += " speed_ev=252 hp_ev=252";
+      if (stats.isImmuneToStatus())
+        finalProps += " ability=purifyingsalt";
     }
 
     if (pokemons.isEmpty()) {

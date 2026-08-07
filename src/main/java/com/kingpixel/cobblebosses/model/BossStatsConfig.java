@@ -9,6 +9,7 @@ import lombok.Data;
 public class BossStatsConfig {
     private boolean perfectIvs = false;
     private boolean perfectEvs = false;
+    private boolean immuneToStatus = true;
 
     public BossStatsConfig() {
     }
