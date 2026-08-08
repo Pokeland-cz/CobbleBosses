@@ -127,33 +127,34 @@ public class Boss {
       pokemon = PokemonProperties.Companion.parse(pokemonId).create();
     }
 
-    String speciesName = pokemon.getSpecies().getName().toLowerCase().replace(" ", "").replace("-", "").replace(".", "").replace("'", "");
+    String speciesName = pokemon.getSpecies().getName().toLowerCase().replace(" ", "").replace("-", "").replace(".", "")
+        .replace("'", "");
     String finalProps = getProperties();
-    
+
     if (stats != null) {
       boolean usedSmogon = false;
       if (stats.isUseSmogonSet() && CobbleBosses.competitiveSets.containsKey(speciesName)) {
-         com.kingpixel.cobblebosses.model.SmogonSet smogonSet = CobbleBosses.competitiveSets.get(speciesName);
-         if (smogonSet.getAbility() != null && !smogonSet.getAbility().isEmpty()) {
-             finalProps += " ability=" + smogonSet.getAbility();
-         }
-         if (smogonSet.getItem() != null && !smogonSet.getItem().isEmpty()) {
-             finalProps += " helditem=" + smogonSet.getItem();
-         }
-         if (smogonSet.getNature() != null && !smogonSet.getNature().isEmpty()) {
-             finalProps += " nature=" + smogonSet.getNature();
-         }
-         if (smogonSet.getEvs() != null) {
-             for (java.util.Map.Entry<String, Integer> entry : smogonSet.getEvs().entrySet()) {
-                 finalProps += " " + entry.getKey() + "_ev=" + entry.getValue();
-             }
-         }
-         if (smogonSet.getMoves() != null && !smogonSet.getMoves().isEmpty()) {
-             finalProps += " moves=" + String.join(",", smogonSet.getMoves());
-         }
-         usedSmogon = true;
+        com.kingpixel.cobblebosses.model.SmogonSet smogonSet = CobbleBosses.competitiveSets.get(speciesName);
+        if (smogonSet.getAbility() != null && !smogonSet.getAbility().isEmpty()) {
+          finalProps += " ability=" + smogonSet.getAbility();
+        }
+        if (smogonSet.getItem() != null && !smogonSet.getItem().isEmpty()) {
+          finalProps += " helditem=" + smogonSet.getItem();
+        }
+        if (smogonSet.getNature() != null && !smogonSet.getNature().isEmpty()) {
+          finalProps += " nature=" + smogonSet.getNature();
+        }
+        if (smogonSet.getEvs() != null) {
+          for (java.util.Map.Entry<String, Integer> entry : smogonSet.getEvs().entrySet()) {
+            finalProps += " " + entry.getKey() + "_ev=" + entry.getValue();
+          }
+        }
+        if (smogonSet.getMoves() != null && !smogonSet.getMoves().isEmpty()) {
+          finalProps += " moves=" + String.join(",", smogonSet.getMoves());
+        }
+        usedSmogon = true;
       }
-      
+
       if (!usedSmogon) {
         if (stats.isPerfectEvs())
           finalProps += " speed_ev=252 hp_ev=252";
@@ -161,14 +162,26 @@ public class Boss {
           finalProps += " ability=purifyingsalt";
       }
 
-      // Tyto 2 parametry můžou vesele přepsat Smogon item/IVs, pokud to admin záměrně povolí:
+      // Tyto 2 parametry můžou vesele přepsat Smogon item/IVs, pokud to admin záměrně
+      // povolí:
       if (stats.isPerfectIvs())
         finalProps += " min_perfect_ivs=6";
       if (stats.isFocusSash())
         finalProps += " helditem=cobblemon:focus_sash";
     }
 
-    PokemonProperties.Companion.parse("uncatchable=true " + finalProps).apply(pokemon);
+    try {
+      PokemonProperties.Companion.parse("uncatchable=true " + finalProps).apply(pokemon);
+    } catch (Exception e) {
+      CobbleUtils.LOGGER
+          .error("Failed to parse properties for boss " + id + ". Using fallback. Properties string: " + finalProps);
+      // Fallback to default properties without Smogon stats to prevent crash
+      try {
+        PokemonProperties.Companion.parse("uncatchable=true " + properties).apply(pokemon);
+      } catch (Exception fallbackEx) {
+        CobbleUtils.LOGGER.error("Failed to parse EVEN FALLBACK properties for boss " + id + "!");
+      }
+    }
 
     if (minSize == maxSize) {
       pokemon.setScaleModifier(maxSize);
@@ -187,7 +200,7 @@ public class Boss {
       } else {
         finalPokemon.setLevel(Utils.getRandom().nextInt(minLevel, maxLevel));
       }
-      
+
       CobbleBosses.historyManager.addLog(new com.kingpixel.cobblebosses.model.BossSpawnLog(
           id,
           finalPokemon.getSpecies().getName(),
@@ -196,10 +209,7 @@ public class Boss {
           (int) pos.x,
           (int) pos.y,
           (int) pos.z,
-          System.currentTimeMillis()
-      ));
-      
-      Cobblemon.INSTANCE.getConfig().setMaxPokemonLevel(CobbleBosses.oldLevelCap);
+          System.currentTimeMillis()));
 
       finalPokemon.sendOut(world, pos, null, bossEntity -> {
         if (glowing) {
@@ -217,6 +227,9 @@ public class Boss {
         bossEntity.setCustomNameVisible(true);
         bossEntity.getPokemon().setNickname(text);
         bossEntity.setCustomName(text);
+
+        // Vrátime level cap zpět na 100 až po úspěšném vygenerování entity
+        Cobblemon.INSTANCE.getConfig().setMaxPokemonLevel(CobbleBosses.oldLevelCap);
 
         return Unit.INSTANCE;
       });

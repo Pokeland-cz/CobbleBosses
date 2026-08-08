@@ -1,7 +1,7 @@
 {
   "landorustherian": {
     "ability": "intimidate",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -28,7 +28,7 @@
   },
   "alomomola": {
     "ability": "regenerator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "relaxed",
     "evs": {
       "hp": 8,
@@ -55,7 +55,7 @@
   },
   "gholdengo": {
     "ability": "goodasgold",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -82,7 +82,7 @@
   },
   "greattusk": {
     "ability": "protosynthesis",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -136,7 +136,7 @@
   },
   "kingambit": {
     "ability": "supremeoverlord",
-    "item": "cobblemon:blackglasses",
+    "item": "cobblemon:black_glasses",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -163,7 +163,7 @@
   },
   "zapdos": {
     "ability": "static",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "bold",
     "evs": {
       "hp": 248,
@@ -190,7 +190,7 @@
   },
   "ragingbolt": {
     "ability": "protosynthesis",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -217,7 +217,7 @@
   },
   "garchomp": {
     "ability": "roughskin",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -244,7 +244,7 @@
   },
   "gliscor": {
     "ability": "poisonheal",
-    "item": "cobblemon:toxicorb",
+    "item": "cobblemon:toxic_orb",
     "nature": "careful",
     "evs": {
       "hp": 244,
@@ -271,7 +271,7 @@
   },
   "corviknight": {
     "ability": "pressure",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -325,7 +325,7 @@
   },
   "tapulele": {
     "ability": "psychicsurge",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -433,7 +433,7 @@
   },
   "urshifurapidstrike": {
     "ability": "unseenfist",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -460,7 +460,7 @@
   },
   "volcarona": {
     "ability": "flamebody",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -514,7 +514,7 @@
   },
   "slowkinggalar": {
     "ability": "regenerator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "sassy",
     "evs": {
       "hp": 248,
@@ -541,7 +541,7 @@
   },
   "terapagos": {
     "ability": "terashift",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -649,7 +649,7 @@
   },
   "dragonite": {
     "ability": "multiscale",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -757,7 +757,7 @@
   },
   "toxapex": {
     "ability": "regenerator",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -784,7 +784,7 @@
   },
   "ceruledge": {
     "ability": "weakarmor",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -811,7 +811,7 @@
   },
   "pelipper": {
     "ability": "drizzle",
-    "item": "cobblemon:damprock",
+    "item": "cobblemon:damp_rock",
     "nature": "bold",
     "evs": {
       "hp": 248,
@@ -838,7 +838,7 @@
   },
   "kyurem": {
     "ability": "pressure",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -865,7 +865,7 @@
   },
   "moltres": {
     "ability": "flamebody",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -892,7 +892,7 @@
   },
   "samurotthisui": {
     "ability": "sharpness",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -919,7 +919,7 @@
   },
   "cinderace": {
     "ability": "libero",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -973,7 +973,7 @@
   },
   "clodsire": {
     "ability": "unaware",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "careful",
     "evs": {
       "hp": 252,
@@ -1027,7 +1027,7 @@
   },
   "rillaboom": {
     "ability": "grassysurge",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -1081,7 +1081,7 @@
   },
   "greninja": {
     "ability": "battlebond",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -1135,7 +1135,7 @@
   },
   "melmetal": {
     "ability": "ironfist",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -1162,7 +1162,7 @@
   },
   "tornadustherian": {
     "ability": "regenerator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -1189,7 +1189,7 @@
   },
   "tyranitar": {
     "ability": "sandstream",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -1216,7 +1216,7 @@
   },
   "excadrill": {
     "ability": "sandrush",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -1297,7 +1297,7 @@
   },
   "meowscarada": {
     "ability": "protean",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -1324,7 +1324,7 @@
   },
   "kartana": {
     "ability": "beastboost",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -1378,7 +1378,7 @@
   },
   "glimmora": {
     "ability": "toxicdebris",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -1486,7 +1486,7 @@
   },
   "blaziken": {
     "ability": "speedboost",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -1513,7 +1513,7 @@
   },
   "weavile": {
     "ability": "pressure",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -1540,7 +1540,7 @@
   },
   "blissey": {
     "ability": "naturalcure",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -1594,7 +1594,7 @@
   },
   "pecharunt": {
     "ability": "poisonpuppeteer",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 252,
@@ -1621,7 +1621,7 @@
   },
   "torkoal": {
     "ability": "drought",
-    "item": "cobblemon:heatrock",
+    "item": "cobblemon:heat_rock",
     "nature": "bold",
     "evs": {
       "hp": 248,
@@ -1648,7 +1648,7 @@
   },
   "archaludon": {
     "ability": "stamina",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "modest",
     "evs": {
       "hp": 80,
@@ -1702,7 +1702,7 @@
   },
   "slowbro": {
     "ability": "regenerator",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "relaxed",
     "evs": {
       "hp": 248,
@@ -1729,7 +1729,7 @@
   },
   "ninetalesalola": {
     "ability": "snowwarning",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -1756,7 +1756,7 @@
   },
   "ursaluna": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -1783,7 +1783,7 @@
   },
   "hawlucha": {
     "ability": "unburden",
-    "item": "cobblemon:electricseed",
+    "item": "cobblemon:electric_seed",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -1810,7 +1810,7 @@
   },
   "grimmsnarl": {
     "ability": "prankster",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "careful",
     "evs": {
       "hp": 252,
@@ -1918,7 +1918,7 @@
   },
   "hydreigon": {
     "ability": "levitate",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -1972,7 +1972,7 @@
   },
   "venusaur": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -1999,7 +1999,7 @@
   },
   "victini": {
     "ability": "victorystar",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -2026,7 +2026,7 @@
   },
   "ribombee": {
     "ability": "shielddust",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -2053,7 +2053,7 @@
   },
   "skarmory": {
     "ability": "sturdy",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -2080,7 +2080,7 @@
   },
   "gengar": {
     "ability": "cursedbody",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -2161,7 +2161,7 @@
   },
   "scizor": {
     "ability": "technician",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -2188,7 +2188,7 @@
   },
   "zoroarkhisui": {
     "ability": "illusion",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -2242,7 +2242,7 @@
   },
   "araquanid": {
     "ability": "waterbubble",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -2269,7 +2269,7 @@
   },
   "hoopaunbound": {
     "ability": "magician",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -2296,7 +2296,7 @@
   },
   "blacephalon": {
     "ability": "beastboost",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -2323,7 +2323,7 @@
   },
   "mimikyu": {
     "ability": "disguise",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -2350,7 +2350,7 @@
   },
   "nidoking": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -2512,7 +2512,7 @@
   },
   "ditto": {
     "ability": "imposter",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "bold",
     "evs": {
       "hp": 248,
@@ -2617,7 +2617,7 @@
   },
   "primarina": {
     "ability": "torrent",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -2644,7 +2644,7 @@
   },
   "celesteela": {
     "ability": "beastboost",
-    "item": "cobblemon:powerherb",
+    "item": "cobblemon:power_herb",
     "nature": "modest",
     "evs": {
       "hp": 56,
@@ -2671,7 +2671,7 @@
   },
   "zeraora": {
     "ability": "voltabsorb",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -2725,7 +2725,7 @@
   },
   "cresselia": {
     "ability": "levitate",
-    "item": "cobblemon:mentalherb",
+    "item": "cobblemon:mental_herb",
     "nature": "relaxed",
     "evs": {
       "hp": 248,
@@ -2752,7 +2752,7 @@
   },
   "magnezone": {
     "ability": "magnetpull",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -2779,7 +2779,7 @@
   },
   "keldeo": {
     "ability": "justified",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -2833,7 +2833,7 @@
   },
   "galvantula": {
     "ability": "compoundeyes",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -2887,7 +2887,7 @@
   },
   "goodrahisui": {
     "ability": "sapsipper",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -2914,7 +2914,7 @@
   },
   "salamence": {
     "ability": "moxie",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -2995,7 +2995,7 @@
   },
   "mamoswine": {
     "ability": "thickfat",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3076,7 +3076,7 @@
   },
   "cloyster": {
     "ability": "skilllink",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -3103,7 +3103,7 @@
   },
   "incineroar": {
     "ability": "intimidate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -3130,7 +3130,7 @@
   },
   "barraskewda": {
     "ability": "swiftswim",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -3157,7 +3157,7 @@
   },
   "metagross": {
     "ability": "clearbody",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -3265,7 +3265,7 @@
   },
   "latios": {
     "ability": "levitate",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -3292,7 +3292,7 @@
   },
   "azumarill": {
     "ability": "hugepower",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -3346,7 +3346,7 @@
   },
   "infernape": {
     "ability": "ironfist",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3373,7 +3373,7 @@
   },
   "krookodile": {
     "ability": "moxie",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3427,7 +3427,7 @@
   },
   "alakazam": {
     "ability": "magicguard",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -3454,7 +3454,7 @@
   },
   "shedinja": {
     "ability": "wonderguard",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "lonely",
     "evs": {
       "hp": 0,
@@ -3481,7 +3481,7 @@
   },
   "gyarados": {
     "ability": "moxie",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -3508,7 +3508,7 @@
   },
   "breloom": {
     "ability": "technician",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3535,7 +3535,7 @@
   },
   "skeledirge": {
     "ability": "unaware",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "calm",
     "evs": {
       "hp": 252,
@@ -3562,7 +3562,7 @@
   },
   "kingdra": {
     "ability": "swiftswim",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -3616,7 +3616,7 @@
   },
   "chandelure": {
     "ability": "flashfire",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -3670,7 +3670,7 @@
   },
   "raichualola": {
     "ability": "surgesurfer",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -3697,7 +3697,7 @@
   },
   "weezinggalar": {
     "ability": "levitate",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -3724,7 +3724,7 @@
   },
   "quaquaval": {
     "ability": "moxie",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -3805,7 +3805,7 @@
   },
   "lucario": {
     "ability": "innerfocus",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3913,7 +3913,7 @@
   },
   "haxorus": {
     "ability": "moldbreaker",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -3940,7 +3940,7 @@
   },
   "ironhands": {
     "ability": "quarkdrive",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -3967,7 +3967,7 @@
   },
   "espeon": {
     "ability": "magicbounce",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -3994,7 +3994,7 @@
   },
   "regieleki": {
     "ability": "transistor",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -4021,7 +4021,7 @@
   },
   "golisopod": {
     "ability": "emergencyexit",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -4048,7 +4048,7 @@
   },
   "tangrowth": {
     "ability": "regenerator",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "relaxed",
     "evs": {
       "hp": 252,
@@ -4102,7 +4102,7 @@
   },
   "polteageist": {
     "ability": "weakarmor",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -4129,7 +4129,7 @@
   },
   "scolipede": {
     "ability": "speedboost",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -4156,7 +4156,7 @@
   },
   "volcanion": {
     "ability": "waterabsorb",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -4183,7 +4183,7 @@
   },
   "talonflame": {
     "ability": "galewings",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -4210,7 +4210,7 @@
   },
   "slowking": {
     "ability": "regenerator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -4237,7 +4237,7 @@
   },
   "blastoise": {
     "ability": "torrent",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -4264,7 +4264,7 @@
   },
   "thundurustherian": {
     "ability": "voltabsorb",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -4318,7 +4318,7 @@
   },
   "amoonguss": {
     "ability": "regenerator",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -4372,7 +4372,7 @@
   },
   "crawdaunt": {
     "ability": "adaptability",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -4399,7 +4399,7 @@
   },
   "arcaninehisui": {
     "ability": "rockhead",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -4426,7 +4426,7 @@
   },
   "crobat": {
     "ability": "infiltrator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -4507,7 +4507,7 @@
   },
   "lilliganthisui": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -4561,7 +4561,7 @@
   },
   "arcanine": {
     "ability": "intimidate",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -4588,7 +4588,7 @@
   },
   "gardevoir": {
     "ability": "trace",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -4642,7 +4642,7 @@
   },
   "armarouge": {
     "ability": "weakarmor",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -4669,7 +4669,7 @@
   },
   "ninetales": {
     "ability": "drought",
-    "item": "cobblemon:heatrock",
+    "item": "cobblemon:heat_rock",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -4696,7 +4696,7 @@
   },
   "lokix": {
     "ability": "tintedlens",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -4750,7 +4750,7 @@
   },
   "buzzwole": {
     "ability": "beastboost",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -4777,7 +4777,7 @@
   },
   "staraptor": {
     "ability": "reckless",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -4804,7 +4804,7 @@
   },
   "starmie": {
     "ability": "naturalcure",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -4858,7 +4858,7 @@
   },
   "maushold": {
     "ability": "technician",
-    "item": "cobblemon:widelens",
+    "item": "cobblemon:wide_lens",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -4939,7 +4939,7 @@
   },
   "conkeldurr": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -4966,7 +4966,7 @@
   },
   "dracozolt": {
     "ability": "sandrush",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -4993,7 +4993,7 @@
   },
   "whimsicott": {
     "ability": "prankster",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -5020,7 +5020,7 @@
   },
   "rotomheat": {
     "ability": "levitate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -5047,7 +5047,7 @@
   },
   "enamorus": {
     "ability": "contrary",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -5074,7 +5074,7 @@
   },
   "smeargle": {
     "ability": "owntempo",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 252,
@@ -5101,7 +5101,7 @@
   },
   "kleavor": {
     "ability": "sharpness",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -5128,7 +5128,7 @@
   },
   "jolteon": {
     "ability": "voltabsorb",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -5155,7 +5155,7 @@
   },
   "klefki": {
     "ability": "prankster",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -5182,7 +5182,7 @@
   },
   "politoed": {
     "ability": "drizzle",
-    "item": "cobblemon:damprock",
+    "item": "cobblemon:damp_rock",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -5236,7 +5236,7 @@
   },
   "roserade": {
     "ability": "naturalcure",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -5317,7 +5317,7 @@
   },
   "salazzle": {
     "ability": "corrosion",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -5344,7 +5344,7 @@
   },
   "basculegion": {
     "ability": "swiftswim",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -5371,7 +5371,7 @@
   },
   "torterra": {
     "ability": "shellarmor",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -5398,7 +5398,7 @@
   },
   "stakataka": {
     "ability": "beastboost",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "lonely",
     "evs": {
       "hp": 252,
@@ -5425,7 +5425,7 @@
   },
   "nihilego": {
     "ability": "beastboost",
-    "item": "cobblemon:powerherb",
+    "item": "cobblemon:power_herb",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -5506,7 +5506,7 @@
   },
   "flygon": {
     "ability": "levitate",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -5533,7 +5533,7 @@
   },
   "gallade": {
     "ability": "sharpness",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -5587,7 +5587,7 @@
   },
   "noivern": {
     "ability": "infiltrator",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -5614,7 +5614,7 @@
   },
   "goodra": {
     "ability": "sapsipper",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -5668,7 +5668,7 @@
   },
   "mandibuzz": {
     "ability": "overcoat",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "impish",
     "evs": {
       "hp": 248,
@@ -5749,7 +5749,7 @@
   },
   "tinkaton": {
     "ability": "moldbreaker",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -5776,7 +5776,7 @@
   },
   "tentacruel": {
     "ability": "liquidooze",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -5803,7 +5803,7 @@
   },
   "mienshao": {
     "ability": "regenerator",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -5830,7 +5830,7 @@
   },
   "pawmot": {
     "ability": "voltabsorb",
-    "item": "cobblemon:leppaberry",
+    "item": "cobblemon:leppa_berry",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -5857,7 +5857,7 @@
   },
   "feraligatr": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -5911,7 +5911,7 @@
   },
   "mukalola": {
     "ability": "poisontouch",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -5965,7 +5965,7 @@
   },
   "zapdosgalar": {
     "ability": "defiant",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6046,7 +6046,7 @@
   },
   "inteleon": {
     "ability": "sniper",
-    "item": "cobblemon:scopelens",
+    "item": "cobblemon:scope_lens",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -6073,7 +6073,7 @@
   },
   "toxtricity": {
     "ability": "punkrock",
-    "item": "cobblemon:throatspray",
+    "item": "cobblemon:throat_spray",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -6100,7 +6100,7 @@
   },
   "toxicroak": {
     "ability": "dryskin",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6127,7 +6127,7 @@
   },
   "ambipom": {
     "ability": "technician",
-    "item": "cobblemon:silkscarf",
+    "item": "cobblemon:silk_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6208,7 +6208,7 @@
   },
   "darmanitan": {
     "ability": "sheerforce",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -6235,7 +6235,7 @@
   },
   "arctozolt": {
     "ability": "slushrush",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "naughty",
     "evs": {
       "hp": 0,
@@ -6262,7 +6262,7 @@
   },
   "lycanrocdusk": {
     "ability": "toughclaws",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6289,7 +6289,7 @@
   },
   "slurpuff": {
     "ability": "unburden",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -6316,7 +6316,7 @@
   },
   "machamp": {
     "ability": "noguard",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -6343,7 +6343,7 @@
   },
   "tyrantrum": {
     "ability": "rockhead",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6424,7 +6424,7 @@
   },
   "hitmonlee": {
     "ability": "unburden",
-    "item": "cobblemon:liechiberry",
+    "item": "cobblemon:liechi_berry",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -6451,7 +6451,7 @@
   },
   "heliolisk": {
     "ability": "dryskin",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -6478,7 +6478,7 @@
   },
   "froslass": {
     "ability": "cursedbody",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -6505,7 +6505,7 @@
   },
   "swellow": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6532,7 +6532,7 @@
   },
   "zoroark": {
     "ability": "illusion",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -6586,7 +6586,7 @@
   },
   "scovillain": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -6613,7 +6613,7 @@
   },
   "comfey": {
     "ability": "triage",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -6640,7 +6640,7 @@
   },
   "regidrago": {
     "ability": "dragonsmaw",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -6694,7 +6694,7 @@
   },
   "zygarde10%": {
     "ability": "aurabreak",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6775,7 +6775,7 @@
   },
   "donphan": {
     "ability": "sturdy",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -6802,7 +6802,7 @@
   },
   "centiskorch": {
     "ability": "flashfire",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -6856,7 +6856,7 @@
   },
   "electivire": {
     "ability": "motordrive",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -6883,7 +6883,7 @@
   },
   "azelf": {
     "ability": "levitate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -6910,7 +6910,7 @@
   },
   "tsareena": {
     "ability": "queenlymajesty",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -6937,7 +6937,7 @@
   },
   "vikavolt": {
     "ability": "levitate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -6964,7 +6964,7 @@
   },
   "mantine": {
     "ability": "waterabsorb",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "calm",
     "evs": {
       "hp": 252,
@@ -6991,7 +6991,7 @@
   },
   "golurk": {
     "ability": "noguard",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -7045,7 +7045,7 @@
   },
   "cinccino": {
     "ability": "technician",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -7072,7 +7072,7 @@
   },
   "delphox": {
     "ability": "blaze",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -7180,7 +7180,7 @@
   },
   "kilowattrel": {
     "ability": "voltabsorb",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -7207,7 +7207,7 @@
   },
   "gigalith": {
     "ability": "sandstream",
-    "item": "cobblemon:smoothrock",
+    "item": "cobblemon:smooth_rock",
     "nature": "careful",
     "evs": {
       "hp": 248,
@@ -7234,7 +7234,7 @@
   },
   "latias": {
     "ability": "levitate",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -7261,7 +7261,7 @@
   },
   "minior": {
     "ability": "shieldsdown",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -7315,7 +7315,7 @@
   },
   "charizard": {
     "ability": "blaze",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -7342,7 +7342,7 @@
   },
   "screamtail": {
     "ability": "protosynthesis",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "timid",
     "evs": {
       "hp": 252,
@@ -7369,7 +7369,7 @@
   },
   "typhlosionhisui": {
     "ability": "frisk",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -7396,7 +7396,7 @@
   },
   "pyukumuku": {
     "ability": "unaware",
-    "item": "cobblemon:leppaberry",
+    "item": "cobblemon:leppa_berry",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -7450,7 +7450,7 @@
   },
   "overqwil": {
     "ability": "intimidate",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -7504,7 +7504,7 @@
   },
   "archeops": {
     "ability": "defeatist",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -7531,7 +7531,7 @@
   },
   "heracross": {
     "ability": "moxie",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -7612,7 +7612,7 @@
   },
   "drifblim": {
     "ability": "unburden",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "bold",
     "evs": {
       "hp": 116,
@@ -7747,7 +7747,7 @@
   },
   "druddigon": {
     "ability": "roughskin",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -7774,7 +7774,7 @@
   },
   "yanmega": {
     "ability": "speedboost",
-    "item": "cobblemon:throatspray",
+    "item": "cobblemon:throat_spray",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -7801,7 +7801,7 @@
   },
   "sceptile": {
     "ability": "unburden",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -7828,7 +7828,7 @@
   },
   "trevenant": {
     "ability": "harvest",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "careful",
     "evs": {
       "hp": 252,
@@ -7855,7 +7855,7 @@
   },
   "obstagoon": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -7882,7 +7882,7 @@
   },
   "thundurus": {
     "ability": "prankster",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -7909,7 +7909,7 @@
   },
   "ludicolo": {
     "ability": "swiftswim",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -7990,7 +7990,7 @@
   },
   "dragalge": {
     "ability": "adaptability",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -8017,7 +8017,7 @@
   },
   "dhelmise": {
     "ability": "steelworker",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -8044,7 +8044,7 @@
   },
   "typhlosion": {
     "ability": "flashfire",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -8098,7 +8098,7 @@
   },
   "drapion": {
     "ability": "sniper",
-    "item": "cobblemon:scopelens",
+    "item": "cobblemon:scope_lens",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -8125,7 +8125,7 @@
   },
   "xatu": {
     "ability": "magicbounce",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -8179,7 +8179,7 @@
   },
   "aerodactyl": {
     "ability": "rockhead",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -8233,7 +8233,7 @@
   },
   "raichu": {
     "ability": "lightningrod",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -8260,7 +8260,7 @@
   },
   "golem": {
     "ability": "sturdy",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -8287,7 +8287,7 @@
   },
   "braviaryhisui": {
     "ability": "tintedlens",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -8314,7 +8314,7 @@
   },
   "exploud": {
     "ability": "scrappy",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -8341,7 +8341,7 @@
   },
   "entei": {
     "ability": "innerfocus",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -8368,7 +8368,7 @@
   },
   "eiscue": {
     "ability": "iceface",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -8395,7 +8395,7 @@
   },
   "clawitzer": {
     "ability": "megalauncher",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -8422,7 +8422,7 @@
   },
   "vivillon": {
     "ability": "compoundeyes",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -8476,7 +8476,7 @@
   },
   "arboliva": {
     "ability": "harvest",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -8530,7 +8530,7 @@
   },
   "aurorus": {
     "ability": "snowwarning",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -8557,7 +8557,7 @@
   },
   "durant": {
     "ability": "hustle",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -8611,7 +8611,7 @@
   },
   "aggron": {
     "ability": "sturdy",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -8638,7 +8638,7 @@
   },
   "cyclizar": {
     "ability": "regenerator",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -8665,7 +8665,7 @@
   },
   "rhyperior": {
     "ability": "solidrock",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -8719,7 +8719,7 @@
   },
   "luxray": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -8773,7 +8773,7 @@
   },
   "accelgor": {
     "ability": "unburden",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -8800,7 +8800,7 @@
   },
   "cetitan": {
     "ability": "slushrush",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -8827,7 +8827,7 @@
   },
   "golemalola": {
     "ability": "galvanize",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -8854,7 +8854,7 @@
   },
   "vileplume": {
     "ability": "effectspore",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -8881,7 +8881,7 @@
   },
   "nidoqueen": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -8908,7 +8908,7 @@
   },
   "kabutops": {
     "ability": "weakarmor",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 100,
@@ -8962,7 +8962,7 @@
   },
   "floatzel": {
     "ability": "swiftswim",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -8989,7 +8989,7 @@
   },
   "hitmontop": {
     "ability": "intimidate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -9016,7 +9016,7 @@
   },
   "leavanny": {
     "ability": "chlorophyll",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -9043,7 +9043,7 @@
   },
   "cramorant": {
     "ability": "gulpmissile",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -9070,7 +9070,7 @@
   },
   "weezing": {
     "ability": "levitate",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -9097,7 +9097,7 @@
   },
   "ninjask": {
     "ability": "speedboost",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -9124,7 +9124,7 @@
   },
   "farigiraf": {
     "ability": "armortail",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 32,
@@ -9151,7 +9151,7 @@
   },
   "escavalier": {
     "ability": "overcoat",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -9178,7 +9178,7 @@
   },
   "togedemaru": {
     "ability": "sturdy",
-    "item": "cobblemon:shellbell",
+    "item": "cobblemon:shell_bell",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -9232,7 +9232,7 @@
   },
   "ariados": {
     "ability": "insomnia",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -9313,7 +9313,7 @@
   },
   "armaldo": {
     "ability": "battlearmor",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -9367,7 +9367,7 @@
   },
   "basculegionf": {
     "ability": "adaptability",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -9394,7 +9394,7 @@
   },
   "sigilyph": {
     "ability": "magicguard",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -9421,7 +9421,7 @@
   },
   "slaking": {
     "ability": "truant",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -9448,7 +9448,7 @@
   },
   "okidogi": {
     "ability": "toxicchain",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -9475,7 +9475,7 @@
   },
   "crustle": {
     "ability": "sturdy",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -9502,7 +9502,7 @@
   },
   "leafeon": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -9529,7 +9529,7 @@
   },
   "sudowoodo": {
     "ability": "sturdy",
-    "item": "cobblemon:shellbell",
+    "item": "cobblemon:shell_bell",
     "nature": "impish",
     "evs": {
       "hp": 0,
@@ -9556,7 +9556,7 @@
   },
   "necrozma": {
     "ability": "prismarmor",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -9583,7 +9583,7 @@
   },
   "vanilluxe": {
     "ability": "snowwarning",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -9610,7 +9610,7 @@
   },
   "honchkrow": {
     "ability": "moxie",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -9637,7 +9637,7 @@
   },
   "unfezant": {
     "ability": "superluck",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -9664,7 +9664,7 @@
   },
   "bastiodon": {
     "ability": "sturdy",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "careful",
     "evs": {
       "hp": 0,
@@ -9691,7 +9691,7 @@
   },
   "arctovish": {
     "ability": "slushrush",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -9772,7 +9772,7 @@
   },
   "revavroom": {
     "ability": "filter",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -9799,7 +9799,7 @@
   },
   "ogerpon": {
     "ability": "defiant",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -9853,7 +9853,7 @@
   },
   "omastar": {
     "ability": "weakarmor",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -9907,7 +9907,7 @@
   },
   "zarude": {
     "ability": "leafguard",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -9934,7 +9934,7 @@
   },
   "cryogonal": {
     "ability": "levitate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -9961,7 +9961,7 @@
   },
   "emboar": {
     "ability": "reckless",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -9988,7 +9988,7 @@
   },
   "lurantis": {
     "ability": "contrary",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "brave",
     "evs": {
       "hp": 248,
@@ -10015,7 +10015,7 @@
   },
   "pangoro": {
     "ability": "ironfist",
-    "item": "cobblemon:punchingglove",
+    "item": "cobblemon:punching_glove",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -10042,7 +10042,7 @@
   },
   "brambleghast": {
     "ability": "windrider",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -10069,7 +10069,7 @@
   },
   "exeggutor": {
     "ability": "harvest",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -10123,7 +10123,7 @@
   },
   "meowstic": {
     "ability": "prankster",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "calm",
     "evs": {
       "hp": 248,
@@ -10204,7 +10204,7 @@
   },
   "butterfree": {
     "ability": "compoundeyes",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -10258,7 +10258,7 @@
   },
   "frosmoth": {
     "ability": "icescales",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -10312,7 +10312,7 @@
   },
   "parasect": {
     "ability": "dryskin",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -10339,7 +10339,7 @@
   },
   "decidueyehisui": {
     "ability": "scrappy",
-    "item": "cobblemon:scopelens",
+    "item": "cobblemon:scope_lens",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -10366,7 +10366,7 @@
   },
   "venomoth": {
     "ability": "tintedlens",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -10393,7 +10393,7 @@
   },
   "linoone": {
     "ability": "gluttony",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -10420,7 +10420,7 @@
   },
   "sharpedo": {
     "ability": "speedboost",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -10447,7 +10447,7 @@
   },
   "magmortar": {
     "ability": "flamebody",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "hasty",
     "evs": {
       "hp": 0,
@@ -10474,7 +10474,7 @@
   },
   "diggersby": {
     "ability": "hugepower",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -10609,7 +10609,7 @@
   },
   "masquerain": {
     "ability": "intimidate",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -10636,7 +10636,7 @@
   },
   "exeggutoralola": {
     "ability": "harvest",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -10663,7 +10663,7 @@
   },
   "shiftry": {
     "ability": "windrider",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -10717,7 +10717,7 @@
   },
   "tauros": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -10744,7 +10744,7 @@
   },
   "absol": {
     "ability": "superluck",
-    "item": "cobblemon:scopelens",
+    "item": "cobblemon:scope_lens",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -10771,7 +10771,7 @@
   },
   "rampardos": {
     "ability": "sheerforce",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -10798,7 +10798,7 @@
   },
   "aron": {
     "ability": "sturdy",
-    "item": "cobblemon:shellbell",
+    "item": "cobblemon:shell_bell",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -10825,7 +10825,7 @@
   },
   "turtonator": {
     "ability": "shellarmor",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "quiet",
     "evs": {
       "hp": 160,
@@ -10852,7 +10852,7 @@
   },
   "barbaracle": {
     "ability": "toughclaws",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -10879,7 +10879,7 @@
   },
   "articuno": {
     "ability": "pressure",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -10906,7 +10906,7 @@
   },
   "emolga": {
     "ability": "motordrive",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -10933,7 +10933,7 @@
   },
   "seaking": {
     "ability": "lightningrod",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "careful",
     "evs": {
       "hp": 244,
@@ -10960,7 +10960,7 @@
   },
   "sandslashalola": {
     "ability": "slushrush",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -11014,7 +11014,7 @@
   },
   "avalugg": {
     "ability": "sturdy",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -11041,7 +11041,7 @@
   },
   "swoobat": {
     "ability": "simple",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -11095,7 +11095,7 @@
   },
   "carracosta": {
     "ability": "solidrock",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -11149,7 +11149,7 @@
   },
   "jynx": {
     "ability": "dryskin",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -11176,7 +11176,7 @@
   },
   "relicanth": {
     "ability": "rockhead",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 108,
@@ -11203,7 +11203,7 @@
   },
   "hitmonchan": {
     "ability": "ironfist",
-    "item": "cobblemon:punchingglove",
+    "item": "cobblemon:punching_glove",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -11257,7 +11257,7 @@
   },
   "braviary": {
     "ability": "defiant",
-    "item": "cobblemon:powerherb",
+    "item": "cobblemon:power_herb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -11284,7 +11284,7 @@
   },
   "rapidash": {
     "ability": "flamebody",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -11311,7 +11311,7 @@
   },
   "zangoose": {
     "ability": "toxicboost",
-    "item": "cobblemon:toxicorb",
+    "item": "cobblemon:toxic_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -11338,7 +11338,7 @@
   },
   "lilligant": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -11392,7 +11392,7 @@
   },
   "avalugghisui": {
     "ability": "sturdy",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -11419,7 +11419,7 @@
   },
   "kingler": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -11446,7 +11446,7 @@
   },
   "morpeko": {
     "ability": "hungerswitch",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -11473,7 +11473,7 @@
   },
   "victreebel": {
     "ability": "chlorophyll",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "gentle",
     "evs": {
       "hp": 0,
@@ -11527,7 +11527,7 @@
   },
   "liepard": {
     "ability": "prankster",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -11554,7 +11554,7 @@
   },
   "electrode": {
     "ability": "static",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "jolly",
     "evs": {
       "hp": 252,
@@ -11608,7 +11608,7 @@
   },
   "abomasnow": {
     "ability": "snowwarning",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "quiet",
     "evs": {
       "hp": 12,
@@ -11689,7 +11689,7 @@
   },
   "regirock": {
     "ability": "sturdy",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -11743,7 +11743,7 @@
   },
   "sandslash": {
     "ability": "sandrush",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -11797,7 +11797,7 @@
   },
   "tornadus": {
     "ability": "prankster",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -11824,7 +11824,7 @@
   },
   "lycanrocmidnight": {
     "ability": "noguard",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -11905,7 +11905,7 @@
   },
   "mrrime": {
     "ability": "screencleaner",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -11932,7 +11932,7 @@
   },
   "taurospaldeablaze": {
     "ability": "intimidate",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -11959,7 +11959,7 @@
   },
   "altaria": {
     "ability": "naturalcure",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "calm",
     "evs": {
       "hp": 252,
@@ -12040,7 +12040,7 @@
   },
   "boltund": {
     "ability": "strongjaw",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -12067,7 +12067,7 @@
   },
   "crabominable": {
     "ability": "ironfist",
-    "item": "cobblemon:punchingglove",
+    "item": "cobblemon:punching_glove",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -12094,7 +12094,7 @@
   },
   "toucannon": {
     "ability": "skilllink",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -12121,7 +12121,7 @@
   },
   "guzzlord": {
     "ability": "beastboost",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -12148,7 +12148,7 @@
   },
   "kangaskhan": {
     "ability": "scrappy",
-    "item": "cobblemon:silkscarf",
+    "item": "cobblemon:silk_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -12175,7 +12175,7 @@
   },
   "illumise": {
     "ability": "prankster",
-    "item": "cobblemon:gripclaw",
+    "item": "cobblemon:grip_claw",
     "nature": "calm",
     "evs": {
       "hp": 252,
@@ -12256,7 +12256,7 @@
   },
   "houndoom": {
     "ability": "flashfire",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -12310,7 +12310,7 @@
   },
   "veluza": {
     "ability": "sharpness",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -12364,7 +12364,7 @@
   },
   "beheeyem": {
     "ability": "analytic",
-    "item": "cobblemon:powerherb",
+    "item": "cobblemon:power_herb",
     "nature": "modest",
     "evs": {
       "hp": 120,
@@ -12391,7 +12391,7 @@
   },
   "lycanroc": {
     "ability": "sandrush",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -12418,7 +12418,7 @@
   },
   "arbok": {
     "ability": "intimidate",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -12445,7 +12445,7 @@
   },
   "ledian": {
     "ability": "swarm",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 196,
@@ -12472,7 +12472,7 @@
   },
   "rotommow": {
     "ability": "levitate",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -12499,7 +12499,7 @@
   },
   "spinda": {
     "ability": "contrary",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 252,
@@ -12526,7 +12526,7 @@
   },
   "hariyama": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -12634,7 +12634,7 @@
   },
   "dugtrio": {
     "ability": "sandforce",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -12688,7 +12688,7 @@
   },
   "tropius": {
     "ability": "chlorophyll",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -12715,7 +12715,7 @@
   },
   "cacturne": {
     "ability": "waterabsorb",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "mild",
     "evs": {
       "hp": 0,
@@ -12769,7 +12769,7 @@
   },
   "rapidashgalar": {
     "ability": "pastelveil",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -12796,7 +12796,7 @@
   },
   "whiscash": {
     "ability": "anticipation",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "quiet",
     "evs": {
       "hp": 4,
@@ -12823,7 +12823,7 @@
   },
   "oricoriopompom": {
     "ability": "dancer",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -12850,7 +12850,7 @@
   },
   "sawsbuck": {
     "ability": "serenegrace",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -12904,7 +12904,7 @@
   },
   "rabsca": {
     "ability": "synchronize",
-    "item": "cobblemon:leppaberry",
+    "item": "cobblemon:leppa_berry",
     "nature": "quiet",
     "evs": {
       "hp": 252,
@@ -12958,7 +12958,7 @@
   },
   "pyroar": {
     "ability": "unnerve",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -12985,7 +12985,7 @@
   },
   "spidops": {
     "ability": "stakeout",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -13120,7 +13120,7 @@
   },
   "kecleon": {
     "ability": "protean",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -13147,7 +13147,7 @@
   },
   "terrakion": {
     "ability": "justified",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -13174,7 +13174,7 @@
   },
   "articunogalar": {
     "ability": "competitive",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -13201,7 +13201,7 @@
   },
   "glastrier": {
     "ability": "chillingneigh",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -13228,7 +13228,7 @@
   },
   "coalossal": {
     "ability": "steamengine",
-    "item": "cobblemon:weaknesspolicy",
+    "item": "cobblemon:weakness_policy",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -13309,7 +13309,7 @@
   },
   "flareon": {
     "ability": "guts",
-    "item": "cobblemon:toxicorb",
+    "item": "cobblemon:toxic_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -13363,7 +13363,7 @@
   },
   "komala": {
     "ability": "comatose",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -13417,7 +13417,7 @@
   },
   "mrmime": {
     "ability": "filter",
-    "item": "cobblemon:salacberry",
+    "item": "cobblemon:salac_berry",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -13498,7 +13498,7 @@
   },
   "ursaring": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -13552,7 +13552,7 @@
   },
   "chatot": {
     "ability": "bigpecks",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -13579,7 +13579,7 @@
   },
   "stoutland": {
     "ability": "scrappy",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -13606,7 +13606,7 @@
   },
   "bruxish": {
     "ability": "strongjaw",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -13633,7 +13633,7 @@
   },
   "dodrio": {
     "ability": "tangledfeet",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -13687,7 +13687,7 @@
   },
   "samurott": {
     "ability": "torrent",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -13741,7 +13741,7 @@
   },
   "bouffalant": {
     "ability": "sapsipper",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -13795,7 +13795,7 @@
   },
   "golduck": {
     "ability": "swiftswim",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -13822,7 +13822,7 @@
   },
   "noctowl": {
     "ability": "tintedlens",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -13903,7 +13903,7 @@
   },
   "beartic": {
     "ability": "slushrush",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -13930,7 +13930,7 @@
   },
   "flamigo": {
     "ability": "scrappy",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -14011,7 +14011,7 @@
   },
   "ironthorns": {
     "ability": "quarkdrive",
-    "item": "cobblemon:loadeddice",
+    "item": "cobblemon:loaded_dice",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -14038,7 +14038,7 @@
   },
   "zebstrika": {
     "ability": "sapsipper",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -14065,7 +14065,7 @@
   },
   "magcargo": {
     "ability": "flamebody",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -14092,7 +14092,7 @@
   },
   "uxie": {
     "ability": "levitate",
-    "item": "cobblemon:lightclay",
+    "item": "cobblemon:light_clay",
     "nature": "timid",
     "evs": {
       "hp": 252,
@@ -14119,7 +14119,7 @@
   },
   "probopass": {
     "ability": "sturdy",
-    "item": "cobblemon:airballoon",
+    "item": "cobblemon:air_balloon",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -14146,7 +14146,7 @@
   },
   "copperajah": {
     "ability": "sheerforce",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -14173,7 +14173,7 @@
   },
   "drednaw": {
     "ability": "strongjaw",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -14227,7 +14227,7 @@
   },
   "persian": {
     "ability": "technician",
-    "item": "cobblemon:silkscarf",
+    "item": "cobblemon:silk_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -14254,7 +14254,7 @@
   },
   "flapple": {
     "ability": "hustle",
-    "item": "cobblemon:widelens",
+    "item": "cobblemon:wide_lens",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -14281,7 +14281,7 @@
   },
   "munkidori": {
     "ability": "toxicchain",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -14308,7 +14308,7 @@
   },
   "furret": {
     "ability": "frisk",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -14362,7 +14362,7 @@
   },
   "maractus": {
     "ability": "chlorophyll",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -14389,7 +14389,7 @@
   },
   "medicham": {
     "ability": "purepower",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -14416,7 +14416,7 @@
   },
   "raticate": {
     "ability": "guts",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -14470,7 +14470,7 @@
   },
   "fearow": {
     "ability": "sniper",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -14524,7 +14524,7 @@
   },
   "falinks": {
     "ability": "defiant",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -14551,7 +14551,7 @@
   },
   "volbeat": {
     "ability": "prankster",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "careful",
     "evs": {
       "hp": 252,
@@ -14578,7 +14578,7 @@
   },
   "haunter": {
     "ability": "levitate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -14605,7 +14605,7 @@
   },
   "tatsugiri": {
     "ability": "stormdrain",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -14632,7 +14632,7 @@
   },
   "perrserker": {
     "ability": "steelyspirit",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "brave",
     "evs": {
       "hp": 248,
@@ -14659,7 +14659,7 @@
   },
   "muk": {
     "ability": "poisontouch",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -14713,7 +14713,7 @@
   },
   "rotomfrost": {
     "ability": "levitate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -14740,7 +14740,7 @@
   },
   "hoopa": {
     "ability": "magician",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "quiet",
     "evs": {
       "hp": 252,
@@ -14767,7 +14767,7 @@
   },
   "dedenne": {
     "ability": "cheekpouch",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -14794,7 +14794,7 @@
   },
   "simisear": {
     "ability": "gluttony",
-    "item": "cobblemon:salacberry",
+    "item": "cobblemon:salac_berry",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -14875,7 +14875,7 @@
   },
   "klawf": {
     "ability": "angershell",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -14902,7 +14902,7 @@
   },
   "enamorustherian": {
     "ability": "overcoat",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -14983,7 +14983,7 @@
   },
   "purugly": {
     "ability": "defiant",
-    "item": "cobblemon:silkscarf",
+    "item": "cobblemon:silk_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15037,7 +15037,7 @@
   },
   "thievul": {
     "ability": "unburden",
-    "item": "cobblemon:grassyseed",
+    "item": "cobblemon:grassy_seed",
     "nature": "modest",
     "evs": {
       "hp": 24,
@@ -15064,7 +15064,7 @@
   },
   "dugtrioalola": {
     "ability": "tanglinghair",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15091,7 +15091,7 @@
   },
   "octillery": {
     "ability": "sniper",
-    "item": "cobblemon:scopelens",
+    "item": "cobblemon:scope_lens",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -15118,7 +15118,7 @@
   },
   "passimian": {
     "ability": "defiant",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15172,7 +15172,7 @@
   },
   "garbodor": {
     "ability": "aftermath",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -15199,7 +15199,7 @@
   },
   "swanna": {
     "ability": "hydration",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -15226,7 +15226,7 @@
   },
   "lunatone": {
     "ability": "levitate",
-    "item": "cobblemon:powerherb",
+    "item": "cobblemon:power_herb",
     "nature": "bold",
     "evs": {
       "hp": 0,
@@ -15253,7 +15253,7 @@
   },
   "basculin": {
     "ability": "moldbreaker",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15280,7 +15280,7 @@
   },
   "kricketune": {
     "ability": "technician",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -15307,7 +15307,7 @@
   },
   "manectric": {
     "ability": "lightningrod",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -15334,7 +15334,7 @@
   },
   "sawk": {
     "ability": "sturdy",
-    "item": "cobblemon:blackbelt",
+    "item": "cobblemon:black_belt",
     "nature": "calm",
     "evs": {
       "hp": 0,
@@ -15361,7 +15361,7 @@
   },
   "skuntank": {
     "ability": "aftermath",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -15469,7 +15469,7 @@
   },
   "oranguru": {
     "ability": "innerfocus",
-    "item": "cobblemon:throatspray",
+    "item": "cobblemon:throat_spray",
     "nature": "modest",
     "evs": {
       "hp": 248,
@@ -15496,7 +15496,7 @@
   },
   "mabosstiff": {
     "ability": "stakeout",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15523,7 +15523,7 @@
   },
   "cottonee": {
     "ability": "prankster",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -15550,7 +15550,7 @@
   },
   "mightyena": {
     "ability": "moxie",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -15604,7 +15604,7 @@
   },
   "gorebyss": {
     "ability": "swiftswim",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -15631,7 +15631,7 @@
   },
   "dustox": {
     "ability": "shielddust",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -15685,7 +15685,7 @@
   },
   "cherrim": {
     "ability": "flowergift",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -15712,7 +15712,7 @@
   },
   "squirtle": {
     "ability": "torrent",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -15739,7 +15739,7 @@
   },
   "rattata": {
     "ability": "guts",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -15766,7 +15766,7 @@
   },
   "huntail": {
     "ability": "waterveil",
-    "item": "cobblemon:whiteherb",
+    "item": "cobblemon:white_herb",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -15820,7 +15820,7 @@
   },
   "lopunny": {
     "ability": "cutecharm",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -15874,7 +15874,7 @@
   },
   "silvally": {
     "ability": "rkssystem",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15901,7 +15901,7 @@
   },
   "bombirdier": {
     "ability": "rockypayload",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -15955,7 +15955,7 @@
   },
   "abra": {
     "ability": "magicguard",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "quiet",
     "evs": {
       "hp": 252,
@@ -15982,7 +15982,7 @@
   },
   "delcatty": {
     "ability": "normalize",
-    "item": "cobblemon:silkscarf",
+    "item": "cobblemon:silk_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -16063,7 +16063,7 @@
   },
   "seviper": {
     "ability": "infiltrator",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -16144,7 +16144,7 @@
   },
   "wyrdeer": {
     "ability": "intimidate",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "brave",
     "evs": {
       "hp": 252,
@@ -16171,7 +16171,7 @@
   },
   "carnivine": {
     "ability": "levitate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -16225,7 +16225,7 @@
   },
   "swalot": {
     "ability": "stickyhold",
-    "item": "cobblemon:blacksludge",
+    "item": "cobblemon:black_sludge",
     "nature": "impish",
     "evs": {
       "hp": 100,
@@ -16279,7 +16279,7 @@
   },
   "solrock": {
     "ability": "levitate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -16333,7 +16333,7 @@
   },
   "greedent": {
     "ability": "cheekpouch",
-    "item": "cobblemon:sitrusberry",
+    "item": "cobblemon:sitrus_berry",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -16360,7 +16360,7 @@
   },
   "oricorio": {
     "ability": "dancer",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -16387,7 +16387,7 @@
   },
   "mothim": {
     "ability": "tintedlens",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -16441,7 +16441,7 @@
   },
   "castform": {
     "ability": "forecast",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -16495,7 +16495,7 @@
   },
   "wugtrio": {
     "ability": "gooey",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -16522,7 +16522,7 @@
   },
   "pidgeot": {
     "ability": "keeneye",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -16549,7 +16549,7 @@
   },
   "delibird": {
     "ability": "vitalspirit",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -16576,7 +16576,7 @@
   },
   "gourgeistlarge": {
     "ability": "frisk",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 216,
@@ -16684,7 +16684,7 @@
   },
   "simipour": {
     "ability": "torrent",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -16711,7 +16711,7 @@
   },
   "oricoriosensu": {
     "ability": "dancer",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -16738,7 +16738,7 @@
   },
   "sunflora": {
     "ability": "solarpower",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -16765,7 +16765,7 @@
   },
   "magnemite": {
     "ability": "sturdy",
-    "item": "cobblemon:berryjuice",
+    "item": "cobblemon:_berryjuice",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -16792,7 +16792,7 @@
   },
   "pineco": {
     "ability": "sturdy",
-    "item": "cobblemon:berryjuice",
+    "item": "cobblemon:_berryjuice",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -16819,7 +16819,7 @@
   },
   "squawkabilly": {
     "ability": "intimidate",
-    "item": "cobblemon:flameorb",
+    "item": "cobblemon:flame_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -16954,7 +16954,7 @@
   },
   "banette": {
     "ability": "insomnia",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -16981,7 +16981,7 @@
   },
   "qwilfish": {
     "ability": "intimidate",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "impish",
     "evs": {
       "hp": 252,
@@ -17035,7 +17035,7 @@
   },
   "pinsir": {
     "ability": "moxie",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -17062,7 +17062,7 @@
   },
   "taurospaldeacombat": {
     "ability": "intimidate",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -17089,7 +17089,7 @@
   },
   "mawile": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -17143,7 +17143,7 @@
   },
   "gumshoos": {
     "ability": "adaptability",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -17197,7 +17197,7 @@
   },
   "beautifly": {
     "ability": "swarm",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -17224,7 +17224,7 @@
   },
   "heatmor": {
     "ability": "flashfire",
-    "item": "cobblemon:figyberry",
+    "item": "cobblemon:figy_berry",
     "nature": "adamant",
     "evs": {
       "hp": 144,
@@ -17251,7 +17251,7 @@
   },
   "oinkologne": {
     "ability": "thickfat",
-    "item": "cobblemon:starfberry",
+    "item": "cobblemon:starf_berry",
     "nature": "adamant",
     "evs": {
       "hp": 248,
@@ -17278,7 +17278,7 @@
   },
   "luvdisc": {
     "ability": "swiftswim",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "bold",
     "evs": {
       "hp": 248,
@@ -17332,7 +17332,7 @@
   },
   "virizion": {
     "ability": "justified",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -17359,7 +17359,7 @@
   },
   "raticatealola": {
     "ability": "hustle",
-    "item": "cobblemon:choiceband",
+    "item": "cobblemon:choice_band",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -17386,7 +17386,7 @@
   },
   "sneasel": {
     "ability": "innerfocus",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -17467,7 +17467,7 @@
   },
   "glalie": {
     "ability": "innerfocus",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -17602,7 +17602,7 @@
   },
   "meowth": {
     "ability": "technician",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -17629,7 +17629,7 @@
   },
   "archen": {
     "ability": "defeatist",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -17683,7 +17683,7 @@
   },
   "taillow": {
     "ability": "scrappy",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "hardy",
     "evs": {
       "hp": 0,
@@ -17872,7 +17872,7 @@
   },
   "minun": {
     "ability": "voltabsorb",
-    "item": "cobblemon:assaultvest",
+    "item": "cobblemon:assault_vest",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -18034,7 +18034,7 @@
   },
   "pawniard": {
     "ability": "defiant",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -18142,7 +18142,7 @@
   },
   "geodude": {
     "ability": "sturdy",
-    "item": "cobblemon:custapberry",
+    "item": "cobblemon:custap_berry",
     "nature": "brave",
     "evs": {
       "hp": 252,
@@ -18223,7 +18223,7 @@
   },
   "riolu": {
     "ability": "prankster",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -18250,7 +18250,7 @@
   },
   "simisage": {
     "ability": "overgrow",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "naive",
     "evs": {
       "hp": 4,
@@ -18304,7 +18304,7 @@
   },
   "totodile": {
     "ability": "sheerforce",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -18331,7 +18331,7 @@
   },
   "lumineon": {
     "ability": "stormdrain",
-    "item": "cobblemon:wacanberry",
+    "item": "cobblemon:wacan_berry",
     "nature": "bold",
     "evs": {
       "hp": 252,
@@ -18358,7 +18358,7 @@
   },
   "surskit": {
     "ability": "swiftswim",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -18547,7 +18547,7 @@
   },
   "swirlix": {
     "ability": "unburden",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 252,
@@ -18574,7 +18574,7 @@
   },
   "rotomfan": {
     "ability": "levitate",
-    "item": "cobblemon:heavydutyboots",
+    "item": "cobblemon:heavy_duty_boots",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -18601,7 +18601,7 @@
   },
   "stunfiskgalar": {
     "ability": "mimicry",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "relaxed",
     "evs": {
       "hp": 252,
@@ -18628,7 +18628,7 @@
   },
   "wormadamsandy": {
     "ability": "overcoat",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "relaxed",
     "evs": {
       "hp": 252,
@@ -18655,7 +18655,7 @@
   },
   "unown": {
     "ability": "levitate",
-    "item": "cobblemon:choicespecs",
+    "item": "cobblemon:choice_specs",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -18763,7 +18763,7 @@
   },
   "vulpix": {
     "ability": "drought",
-    "item": "cobblemon:heatrock",
+    "item": "cobblemon:heat_rock",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -18871,7 +18871,7 @@
   },
   "diglett": {
     "ability": "sandforce",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 4,
@@ -18952,7 +18952,7 @@
   },
   "salandit": {
     "ability": "corrosion",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 248,
@@ -18979,7 +18979,7 @@
   },
   "kadabra": {
     "ability": "magicguard",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -19006,7 +19006,7 @@
   },
   "beedrill": {
     "ability": "sniper",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -19033,7 +19033,7 @@
   },
   "drakloak": {
     "ability": "infiltrator",
-    "item": "cobblemon:rockyhelmet",
+    "item": "cobblemon:rocky_helmet",
     "nature": "hardy",
     "evs": {
       "hp": 32,
@@ -19087,7 +19087,7 @@
   },
   "bellsprout": {
     "ability": "chlorophyll",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 4,
@@ -19141,7 +19141,7 @@
   },
   "plusle": {
     "ability": "lightningrod",
-    "item": "cobblemon:lifeorb",
+    "item": "cobblemon:life_orb",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -19168,7 +19168,7 @@
   },
   "bunnelby": {
     "ability": "hugepower",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 4,
@@ -19222,7 +19222,7 @@
   },
   "seadra": {
     "ability": "sniper",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -19276,7 +19276,7 @@
   },
   "quilava": {
     "ability": "flashfire",
-    "item": "cobblemon:choicescarf",
+    "item": "cobblemon:choice_scarf",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -19492,7 +19492,7 @@
   },
   "oshawott": {
     "ability": "shellarmor",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 252,
@@ -19519,7 +19519,7 @@
   },
   "feebas": {
     "ability": "swiftswim",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "jolly",
     "evs": {
       "hp": 0,
@@ -19735,7 +19735,7 @@
   },
   "stonjourner": {
     "ability": "powerspot",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 252,
@@ -19789,7 +19789,7 @@
   },
   "glimmet": {
     "ability": "toxicdebris",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -19897,7 +19897,7 @@
   },
   "piplup": {
     "ability": "competitive",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 0,
@@ -20005,7 +20005,7 @@
   },
   "karrablast": {
     "ability": "noguard",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "adamant",
     "evs": {
       "hp": 0,
@@ -20167,7 +20167,7 @@
   },
   "applin": {
     "ability": "bulletproof",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "brave",
     "evs": {
       "hp": 4,
@@ -20194,7 +20194,7 @@
   },
   "grovyle": {
     "ability": "unburden",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "naughty",
     "evs": {
       "hp": 0,
@@ -20221,7 +20221,7 @@
   },
   "purrloin": {
     "ability": "prankster",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "timid",
     "evs": {
       "hp": 4,
@@ -20275,7 +20275,7 @@
   },
   "loudred": {
     "ability": "scrappy",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "modest",
     "evs": {
       "hp": 0,
@@ -20302,7 +20302,7 @@
   },
   "starly": {
     "ability": "keeneye",
-    "item": "cobblemon:focussash",
+    "item": "cobblemon:focus_sash",
     "nature": "hardy",
     "evs": {
       "hp": 4,

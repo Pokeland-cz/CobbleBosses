@@ -1,6 +1,7 @@
 package com.kingpixel.cobblebosses;
 
 import com.cobblemon.mod.common.Cobblemon;
+import com.cobblemon.mod.common.entity.pokemon.PokemonEntity;
 import com.kingpixel.cobblebosses.command.CommandTree;
 import com.kingpixel.cobblebosses.config.BossesConfig;
 import com.kingpixel.cobblebosses.config.Config;
@@ -12,6 +13,7 @@ import com.kingpixel.cobblebosses.events.StartBattleEvent;
 import dev.architectury.event.events.common.CommandRegistrationEvent;
 import dev.architectury.event.events.common.LifecycleEvent;
 import net.fabricmc.api.ModInitializer;
+
 import net.minecraft.server.MinecraftServer;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -38,8 +40,8 @@ public class CobbleBosses implements ModInitializer {
   public static int maxLevelCap = 1000;
   public static Map<String, SmogonSet> competitiveSets = new HashMap<>();
 
-
-  @Override public void onInitialize() {
+  @Override
+  public void onInitialize() {
     events();
   }
 
@@ -54,7 +56,8 @@ public class CobbleBosses implements ModInitializer {
       java.io.InputStream is = CobbleBosses.class.getResourceAsStream("/competitive_sets.json");
       if (is != null) {
         Gson gson = new Gson();
-        Type type = new TypeToken<Map<String, SmogonSet>>() {}.getType();
+        Type type = new TypeToken<Map<String, SmogonSet>>() {
+        }.getType();
         competitiveSets = gson.fromJson(new InputStreamReader(is, StandardCharsets.UTF_8), type);
         System.out.println("[CobbleBosses] Loaded " + competitiveSets.size() + " competitive sets.");
       } else {
@@ -69,7 +72,6 @@ public class CobbleBosses implements ModInitializer {
 
   }
 
-
   private static void files() {
     config.init();
     language.init();
@@ -77,10 +79,8 @@ public class CobbleBosses implements ModInitializer {
     historyManager.init();
   }
 
-
   private static void events() {
     files();
-
 
     CommandRegistrationEvent.EVENT.register((dispatcher, registry, selection) -> {
       CommandTree.register(dispatcher, registry);
@@ -91,12 +91,13 @@ public class CobbleBosses implements ModInitializer {
       oldLevelCap = Cobblemon.INSTANCE.getConfig().getMaxPokemonLevel();
     });
 
-
     LifecycleEvent.SERVER_LEVEL_LOAD.register(level -> server = level.getServer());
 
     SpawningEvents.register();
     BattleEvents.register();
     CaptureEvents.register();
     StartBattleEvent.register();
+
+
   }
 }
