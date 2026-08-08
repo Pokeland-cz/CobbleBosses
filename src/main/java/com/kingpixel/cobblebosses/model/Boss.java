@@ -190,11 +190,10 @@ public class Boss {
     }
 
     Pokemon finalPokemon = pokemon;
-    CobbleBosses.server.execute(() -> {
+      CobbleBosses.server.execute(() -> {
       NbtCompound nbt = finalPokemon.getPersistentData();
       nbt.putString(CobbleBosses.TAG_BOSS_ID, id);
 
-      Cobblemon.INSTANCE.getConfig().setMaxPokemonLevel(CobbleBosses.maxLevelCap);
       if (minLevel == maxLevel) {
         finalPokemon.setLevel(maxLevel);
       } else {
@@ -228,8 +227,6 @@ public class Boss {
         bossEntity.getPokemon().setNickname(text);
         bossEntity.setCustomName(text);
 
-        // Vrátime level cap zpět na 100 až po úspěšném vygenerování entity
-        Cobblemon.INSTANCE.getConfig().setMaxPokemonLevel(CobbleBosses.oldLevelCap);
 
         return Unit.INSTANCE;
       });

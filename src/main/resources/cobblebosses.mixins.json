@@ -4,6 +4,7 @@
   "package": "com.kingpixel.cobblebosses.mixins",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "PokemonLevelCapMixin",
     "PreventDamageAndSaveMixin",
     "PreventDeathCrash",
     "PreventEntityDropStackMixin",
